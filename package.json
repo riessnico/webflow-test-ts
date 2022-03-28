@@ -1,0 +1,29 @@
+{
+  "name": "webflow-test-ts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel app.ts",
+    "build": "parcel build app.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riessnico/webflow-test-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riessnico/webflow-test-ts/issues"
+  },
+  "homepage": "https://github.com/riessnico/webflow-test-ts#readme",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "dotenv": "^16.0.0",
+    "parcel": "^2.4.0"
+  }
+}
