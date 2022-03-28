@@ -1,1 +1,1 @@
-web: npx parcel build index.html
+web: npx parcel build app.ts
