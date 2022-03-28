@@ -1,5 +1,3 @@
-import dotenv from 'dotenv'
-
 console.log('typescript no webflow chora');
 
 const p = document.querySelector('.text-plz') as HTMLParagraphElement
